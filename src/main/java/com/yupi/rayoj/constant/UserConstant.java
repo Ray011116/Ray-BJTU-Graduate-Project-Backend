@@ -25,6 +25,8 @@ public interface UserConstant {
      */
     String ADMIN_ROLE = "admin";
 
+    String RECRUITER_ROLE = "recruiter";
+
     /**
      * 被封号
      */
